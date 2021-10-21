@@ -6,7 +6,7 @@ Simply said, it creates the opportunity to change roll results in the chat manua
 ### What this module does not do:
 CMR does not interfere with any module that doesn’t change anything about the way the dice roll structure is built or that doesn’t fundamentally change the chat log structure. It simply adds a new context menu option to dice rolls and updates the roll result and flavor according to the input.
 
-In the case that the roll result is immediately used by your game system to calculate other things such as damage or other things, this module like won’t change these calculations, except if you first apply the modifier and then let the system do the work. In that case, it will also only work if the system calculations are only dependant on the roll result and not any of the flavor text or (possibly) roll formula. I don’t know all the systems, sadly.
+In the case that the roll result is immediately used by your game system to calculate other things such as damage or other things, this module won’t change these calculations, except if you first apply the modifier and then let the system do the work. In that case, it will also only work if the system calculations are only dependant on the roll result and not any of the flavor text or (possibly) roll formula. I don’t know all the systems, sadly.
 ### How to install:
 1.	In the FVTT Configuration and Setup window, navigate to “Add-on Modules”
 2.	Click “Install Module”
