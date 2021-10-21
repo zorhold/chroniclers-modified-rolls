@@ -9,5 +9,6 @@
   "scripts": [
     "scripts/ModifyMyRolls.js"
   ],
+  "url": "https://github.com/zorhold/chroniclers-modified-rolls/tree/main",
   "manifest": "https://github.com/zorhold/chroniclers-modified-rolls/blob/main/module.json"
 }
