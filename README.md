@@ -16,3 +16,10 @@
 <h3><strong>Important to note:</strong></h3>
 <p>This was simply a module I threw together for my personal campaign, and I am not in any way overly competent in JavaScript. The module should work with any system since it hooks with the default chat log context menu &amp; should also work with any system that works with the default dice roll structure defined by FoundryVTT.</p>
 <p>However, since I only created this on a whim, I am not sure how often I will be able to update this module. If something in the FVTT code changes drastically, I will update my private module first but will likely port those changes over to this repository as well. If there are any questions concerning the code: I am, as mentioned, not well versed in JavaScript and as such the code might be non-optimal. I am very aware of this. But in the words of Todd Howard: &ldquo;It just works.&rdquo; Or at least I haven&rsquo;t found any absolutely game breaking bugs. Which probably makes this a more stable release than anything Bethesda has put out, in like, ever. Yay me. And you, if you like this module.</p>
+<h3><strong>Screenshots:</strong></h3>
+<p>The new chat context menu option on right click:</p>
+![Roll_Message_ContextMenu](https://user-images.githubusercontent.com/86226697/138246362-5f192586-f900-4d42-a6ed-3372919eb762.png)
+<p>The "Modify Roll" dialog:</p>
+![ModifyRoll_Dialog](https://user-images.githubusercontent.com/86226697/138246387-e396842f-8c7d-4dfe-b41b-85e69fbdbf3c.png)
+<p>The roll message after modification:</p>
+![ModifiedRoll_Message_Result](https://user-images.githubusercontent.com/86226697/138246396-9a1c8d1b-8d48-40a3-b474-acb6fae0c41b.png)
