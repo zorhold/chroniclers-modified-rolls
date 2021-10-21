@@ -20,7 +20,7 @@ However, since I only created this on a whim, I am not sure how often I will be 
 ### Properties:
 This was basically a side project for me. If you want to use or modify this code for your private game, go for it. If you want to create a module that contains my code, go for it too, but please put my name somewhere in the Readme as an acknowledgement.
 ## Screenshots:
-### The new context menu on right click:
+### The new context menu on right click (<i>only visible if user is GM and message is a roll</i>):
 ![Roll_Message_ContextMenu](https://user-images.githubusercontent.com/86226697/138247781-1a730272-bc1b-4e07-8b5d-0957756ca7b2.png)
 ### The "Modify Roll" dialog:
 ![ModifyRoll_Dialog](https://user-images.githubusercontent.com/86226697/138247786-27c4222c-b977-4caa-9ac1-be476edfaa8c.png)
