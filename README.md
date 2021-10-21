@@ -1,6 +1,6 @@
 # Chronicler’s Modified Rolls (CMR)
 ### What this module does:
-CMR adds a context menu option to the chat context menu (available by right clicking on a chat message), which allows a roll result posted in the chat to be modified by positive/negative numbers. The applied modifier shows in the roll formula as a separate addition/subtraction and is appendes to the flavor text of the roll as “Modifier: +/-X”. <i>This option should only be available to the GM</i>. 
+CMR adds a context menu option to the chat context menu (available by right clicking on a chat message), which allows a roll result posted in the chat to be modified by positive/negative numbers. The applied modifier shows in the roll formula as a separate addition/subtraction and is appended to the flavor text of the roll as “Modifier: +/-X”. <i>This option should only be available to the GM</i>. 
 
 Simply said, it creates the opportunity to change roll results in the chat manually in the case that you need a modifier that is not automatically present in your system.
 ### What this module does not do:
