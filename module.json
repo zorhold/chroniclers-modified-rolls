@@ -9,7 +9,7 @@
   "scripts": [
     "scripts/ModifyMyRolls.js"
   ],
-  "manifest": "https://raw.githubusercontent.com/zorhold/chroniclers-modified-rolls/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/zorhold/chroniclers-modified-rolls/master/module.json",
   "url": "https://github.com/zorhold/chroniclers-modified-rolls",
   "download": "https://github.com/zorhold/chroniclers-modified-rolls/archive/refs/tags/v.1.0.0.zip"
 }
