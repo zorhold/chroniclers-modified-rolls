@@ -10,7 +10,7 @@ In the case that the roll result is immediately used by your game system to calc
 ### How to install:
 1.	In the FVTT Configuration and Setup window, navigate to “Add-on Modules”
 2.	Click “Install Module”
-3.	Copy-paste the Manifest URL https://github.com/zorhold/chroniclers-modified-rolls/blob/main/module.json into the “Manifest URL:” window.
+3.	Copy-paste the Manifest URL https://raw.githubusercontent.com/zorhold/chroniclers-modified-rolls/master/module.json into the “Manifest URL:” window.
 4.	Alternatively, search for the Package Name “Chronicler’s Modified Rolls” & click the “Install” button.
 5.	Done.
 ### Important to note:
