@@ -3,7 +3,7 @@
   "title": "Chronicler's Modified Rolls",
   "description": "Allows for any user with the GM role to modify dice roll messages after they are posted in the chat.",
   "author": "The Chronicler [Zorhold#9781]",
-  "version": "1.0.0",
+  "version": "1.1",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "9",
   "scripts": [
